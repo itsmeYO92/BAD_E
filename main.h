@@ -16,13 +16,14 @@
  *
  * @position_x: position of player in x axis
  * @position_y: position of player in y axis
+ * @avatar: charachter representing the player
  */
 typedef struct player
 {
 	int position_x;
 	int position_y;
 	char avatar;
-}player_t;
+} player_t;
 
 char **init_level(char **level, int n, player_t player);
 void print_level(char **level, player_t player);

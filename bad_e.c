@@ -24,6 +24,17 @@ int main(void)
 
 }
 
+/**
+ * init_level - Initialize the game level with level data from a file and
+ *              place the player's avatar on the level
+ *
+ * @level: A pointer to the array representing the game level
+ * @n: The level number
+ * @player: The player_t structure representing the player
+ *
+ * Return: The initialized game level, or NULL on failure
+ */
+
 char **init_level(char **level, int n, player_t player)
 {
 	FILE *maze;
@@ -49,23 +60,28 @@ char **init_level(char **level, int n, player_t player)
 	return (level);
 }
 
-
+/**
+ * print_level - Prints the game level with the player's avatar highlighted
+ *
+ * @level: A pointer to the array representing the game level
+ * @player: The player_t structure representing the player
+ */
 void print_level(char **level, player_t player)
 {
 	system("clear");
-	for (int i=0; i < 32; i++)
+	for (int i = 0; i < 32; i++)
 	{
 		if (i != player.position_y)
-			printf("%s",level[i]);
+			printf("%s", level[i]);
 		else
 		{
 			for (int j = 0; j < strlen(level[i]); j++)
 			{
 				if (j != player.position_x)
-					printf("%c",level[i][j]);
+					printf("%c", level[i][j]);
 				else
 				{
-					printf("%s",KRED);
+					printf("%s", KRED);
 					printf("%c", level[i][j]);
 					printf("%s", KNOR);
 				}
@@ -75,6 +91,12 @@ void print_level(char **level, player_t player)
 	}
 
 }
+
+/**
+ * free_mem - Frees the memory allocated for the game level
+ *
+ * @level: A pointer to the array representing the game level
+ */
 
 void free_mem(char **level)
 {
