@@ -1,32 +1,32 @@
-   ##########################################################
-      #           #              #        #     #     #     #
-####  #  #############  #  #######  #  #######  #  #  #  #  #
-#        #     #        #     #  #  #        #     #     #  #
-#  ##########  #######  ####  #  #  #######  ####  #  #  ####
-#     #           #  #  #        #  #  #     #  #  #  #     #				THE MAZE
-####  #######  ####  #  ####  ####  #  #  ####  ####  ####  #
-#        #     #  #        #        #     #  #        #  #  #				LEVEL 1
-#######  ####  #  ####  ################  #  ####  ####  ####
-#  #                 #     #     #  #        #              #			USE q , s , w , z to move 
-#  ##########  #  ####  #######  #  ####  #  ####  #  #  #  #			
-#  #  #        #     #  #  #        #     #  #     #  #  #  #			   @ is the charachter
-#  #  #  #  #  ####  #  #  ####  ####  #######  #  ####  #  #
-#  #  #  #  #     #  #     #  #     #     #     #  #  #  #  #			
-#  #  #######  ####  #  #  #  ####  #  ####  #######  #######
-#     #     #  #        #  #     #     #  #           #  #  #
-####  #  #######  #  #  ####  #  #  #  #  ####  #  #  #  #  #
-#           #  #  #  #     #  #     #     #  #  #  #        #
-#  #  ####  #  #  #############  #######  #  #  ####  #######
-#  #     #     #     #  #  #  #  #           #  #     #     #			   Ayoub ABOUTARBOUCH
-####  #######  #  ####  #  #  ####  ####  #  #######  ####  #
-#     #     #  #        #     #  #  #     #  #              #			    @github: itsmeYO92
-##########  #  #  ##########  #  ####  ####  ##########  #  #
-#        #  #              #     #     #  #              #  #
-####  #  #  #  ####  #  ####  ##########  ####  #############		   SHOUTOUT TO ALX MOROCCO DISCORD SERVER
-#     #     #     #  #        #        #     #        #     #
-#  ####  ####  ####  #  ####  ####  ####  #  #  #######  #  #
-#  #  #        #     #     #  #     #  #  #     #     #  #  #
-#  #  ####  ##########  ##########  #  ####  #  #  ####  ####
-#        #        #           #              #              
-##########################################################  
+   EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+      E           E              E        E     E     E     E
+EEEE  E  EEEEEEEEEEEEE  E  EEEEEEE  E  EEEEEEE  E  E  E  E  E
+E        E     E        E     E  E  E        E     E     E  E
+E  EEEEEEEEEE  EEEEEEE  EEEE  E  E  EEEEEEE  EEEE  E  E  EEEE
+E     E           E  E  E        E  E  E     E  E  E  E     E				THE MAZE
+EEEE  EEEEEEE  EEEE  E  EEEE  EEEE  E  E  EEEE  EEEE  EEEE  E
+E        E     E  E        E        E     E  E        E  E  E				LEVEL 1
+EEEEEEE  EEEE  E  EEEE  EEEEEEEEEEEEEEEE  E  EEEE  EEEE  EEEE
+E  E                 E     E     E  E        E              E			USE q , s , w , z to move 
+E  EEEEEEEEEE  E  EEEE  EEEEEEE  E  EEEE  E  EEEE  E  E  E  E			
+E  E  E        E     E  E  E        E     E  E     E  E  E  E			   @ is the charachter
+E  E  E  E  E  EEEE  E  E  EEEE  EEEE  EEEEEEE  E  EEEE  E  E
+E  E  E  E  E     E  E     E  E     E     E     E  E  E  E  E			
+E  E  EEEEEEE  EEEE  E  E  E  EEEE  E  EEEE  EEEEEEE  EEEEEEE
+E     E     E  E        E  E     E     E  E           E  E  E
+EEEE  E  EEEEEEE  E  E  EEEE  E  E  E  E  EEEE  E  E  E  E  E
+E           E  E  E  E     E  E     E     E  E  E  E        E
+E  E  EEEE  E  E  EEEEEEEEEEEEE  EEEEEEE  E  E  EEEE  EEEEEEE
+E  E     E     E     E  E  E  E  E           E  E     E     E			   Ayoub ABOUTARBOUCH
+EEEE  EEEEEEE  E  EEEE  E  E  EEEE  EEEE  E  EEEEEEE  EEEE  E
+E     E     E  E        E     E  E  E     E  E              E			    @github: itsmeYO92
+EEEEEEEEEE  E  E  EEEEEEEEEE  E  EEEE  EEEE  EEEEEEEEEE  E  E
+E        E  E              E     E     E  E              E  E
+EEEE  E  E  E  EEEE  E  EEEE  EEEEEEEEEE  EEEE  EEEEEEEEEEEEE		   SHOUTOUT TO ALX MOROCCO DISCORD SERVER
+E     E     E     E  E        E        E     E        E     E
+E  EEEE  EEEE  EEEE  E  EEEE  EEEE  EEEE  E  E  EEEEEEE  E  E
+E  E  E        E     E     E  E     E  E  E     E     E  E  E
+E  E  EEEE  EEEEEEEEEE  EEEEEEEEEE  E  EEEE  E  E  EEEE  EEEE
+E        E        E           E              E              
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE  
 

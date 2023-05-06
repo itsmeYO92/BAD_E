@@ -19,6 +19,12 @@ int main(void)
 	if (!level)
 		return (0);
 	print_level(level, player);
+	while (1)
+	{
+		mv = getchar();
+		player = move_player(mv, level, player);
+		print_level(level, player);
+	}
 	free_mem(level);
 	return (0);
 
@@ -82,7 +88,7 @@ void print_level(char **level, player_t player)
 				else
 				{
 					printf("%s", KRED);
-					printf("%c", level[i][j]);
+					printf("%c", player.avatar);
 					printf("%s", KNOR);
 				}
 			}
@@ -109,3 +115,44 @@ void free_mem(char **level)
 		free(level[i]);
 	free(level);
 }
+
+
+player_t move_player(char mv, char **level, player_t player)
+{
+	if ('q' == mv)
+	{
+		if (player.position_x > 0)
+		{
+			if (level[player.position_y][player.position_x - 1] == ' ')
+				player.position_x--;
+		}
+	}
+	else if ('s' == mv)
+	{
+		if (player.position_x < 60)
+		{
+			if (level[player.position_y][player.position_x + 1] == ' ')
+				player.position_x++;
+		}
+	}
+
+	if ('z' == mv)
+	{
+		if (player.position_y > 0)
+		{
+			if (level[player.position_y - 1][player.position_x] == ' ')
+				player.position_y--;
+		}
+	}
+	else if ('w' == mv)
+	{
+		if (player.position_y < 40)
+		{
+			if (level[player.position_y + 1][player.position_x] == ' ')
+				player.position_y++;
+		}
+	}
+printf("%d %d", player.position_y, player.position_x);
+	return (player);
+}
+
