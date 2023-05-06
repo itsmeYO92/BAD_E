@@ -11,8 +11,13 @@ int main(void)
 	player_t player = {0, 0, 'V'};
 	char mv;
 	int stage = 1;
+
+	if (!level)
+		return (0);
 	system("/bin/stty --file=/dev/tty -icanon");
 	init_level(level, stage, player);
+	if (!level)
+		return (0);
 	print_level(level, player);
 	free_mem(level);
 	return (0);
@@ -33,6 +38,8 @@ char **init_level(char **level, int n, player_t player)
 	{
 		fgets(line, sizeof(line), maze);
 		level[i] = malloc(sizeof(line));
+		if (!level[i])
+			return (NULL);
 		strcpy(level[i], line);
 
 	}
@@ -40,7 +47,7 @@ char **init_level(char **level, int n, player_t player)
 	level[player.position_y][player.position_x] = player.avatar;
 	fclose(maze);
 	return (level);
-} 
+}
 
 
 void print_level(char **level, player_t player)
