@@ -117,6 +117,17 @@ void free_mem(char **level)
 }
 
 
+/**
+ * move_player - Moves the player's avatar based on user input
+ *
+ * @mv: The character representing the user input
+ * @level: A pointer to the array representing the game level
+ * @player: The player_t structure representing the player
+ *
+ * Return: The updated player_t structure
+ */
+
+
 player_t move_player(char mv, char **level, player_t player)
 {
 	if ('q' == mv)
