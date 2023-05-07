@@ -1,0 +1,32 @@
+   EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+         E           E  E     E        E           E        E
+EEEEEEE  E  EEEEEEE  E  E  EEEEEEEEEE  EEEEEEE  EEEEEEEEEE  E
+E              E  E  E           E     E  E     E           E
+EEEE  E  EEEE  E  EEEEEEE  EEEEEEE  EEEE  EEEE  EEEE  EEEE  E
+E     E     E  E     E           E  E        E  E  E  E     E				
+EEEEEEE  E  EEEE  E  E  E  EEEEEEE  EEEE  E  E  E  EEEE  E  E
+E        E  E     E  E  E  E  E        E  E              E  E				LEVEL 4
+EEEE  EEEEEEE  EEEEEEEEEE  E  EEEE  EEEE  E  E  EEEEEEE  EEEE
+E        E     E        E                 E  E  E     E     E
+E  EEEEEEEEEE  E  E  EEEEEEE  EEEE  EEEEEEEEEE  EEEE  EEEEEEE
+E        E  E  E  E     E        E  E     E           E     E
+EEEEEEE  E  E  EEEEEEE  EEEE  EEEEEEEEEE  EEEE  E  EEEE  EEEE
+E     E        E                       E        E  E     E  E
+E  E  EEEE  E  E  EEEEEEEEEE  EEEE  EEEEEEEEEEEEE  E  EEEE  E
+E  E        E     E        E  E  E           E     E        E
+EEEE  EEEEEEE  E  EEEE  EEEE  E  E  E  E  EEEEEEEEEEEEEEEE  E
+E     E  E  E  E     E  E  E  E     E  E  E     E           E
+EEEEEEE  E  EEEEEEE  E  E  E  EEEEEEEEEE  E  EEEE  E  E  E  E
+E  E        E  E     E        E     E           E  E  E  E  E
+E  EEEE  EEEE  E  EEEE  EEEE  EEEE  EEEEEEE  EEEEEEE  EEEE  E
+E     E     E        E  E  E        E              E     E  E
+E  EEEE  EEEEEEEEEE  EEEE  EEEE  EEEEEEEEEE  EEEEEEEEEE  E  E
+E  E     E  E  E     E  E        E  E           E     E  E  E
+E  EEEE  E  E  E  EEEE  E  EEEEEEE  EEEEEEE  E  EEEE  E  EEEE
+E                    E        E        E     E              E
+E  EEEEEEEEEEEEEEEE  E  EEEEEEE  EEEEEEEEEEEEE  EEEE  EEEEEEE
+E              E     E     E                       E        E
+E  EEEEEEE  E  E  E  EEEE  EEEE  EEEEEEEEEE  E  EEEEEEE  E  E
+E        E  E  E  E     E  E              E  E  E        E  
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE  
+

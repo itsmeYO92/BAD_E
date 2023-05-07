@@ -3,26 +3,26 @@
 EEEE  E  EEEEEEEEEEEEE  E  EEEEEEE  E  EEEEEEE  E  E  E  E  E
 E        E     E        E     E  E  E        E     E     E  E
 E  EEEEEEEEEE  EEEEEEE  EEEE  E  E  EEEEEEE  EEEE  E  E  EEEE
-E     E           E  E  E        E  E  E     E  E  E  E     E				THE MAZE
+E     E           E  E  E        E  E  E     E  E  E  E     E		            VIM IN EVIL LAND
 EEEE  EEEEEEE  EEEE  E  EEEE  EEEE  E  E  EEEE  EEEE  EEEE  E
 E        E     E  E        E        E     E  E        E  E  E				LEVEL 1
 EEEEEEE  EEEE  E  EEEE  EEEEEEEEEEEEEEEE  E  EEEE  EEEE  EEEE
 E  E                 E     E     E  E        E              E			USE q , s , w , z to move 
 E  EEEEEEEEEE  E  EEEE  EEEEEEE  E  EEEE  E  EEEE  E  E  E  E			
-E  E  E        E     E  E  E        E     E  E     E  E  E  E			   @ is the charachter
+E  E  E        E     E  E  E        E     E  E     E  E  E  E			   
 E  E  E  E  E  EEEE  E  E  EEEE  EEEE  EEEEEEE  E  EEEE  E  E
 E  E  E  E  E     E  E     E  E     E     E     E  E  E  E  E			
-E  E  EEEEEEE  EEEE  E  E  E  EEEE  E  EEEE  EEEEEEE  EEEEEEE
+E  E  EEEEEEE  EEEE  E  E  E  EEEE  E  EEEE  EEEEEEE  EEEEEEE		HELP VIM GET OUT OF THE EVIL EMACS LAND
 E     E     E  E        E  E     E     E  E           E  E  E
 EEEE  E  EEEEEEE  E  E  EEEE  E  E  E  E  EEEE  E  E  E  E  E
 E           E  E  E  E     E  E     E     E  E  E  E        E
 E  E  EEEE  E  E  EEEEEEEEEEEEE  EEEEEEE  E  E  EEEE  EEEEEEE
-E  E     E     E     E  E  E  E  E           E  E     E     E			   Ayoub ABOUTARBOUCH
+E  E     E     E     E  E  E  E  E           E  E     E     E			    Ayoub ABOUTARBOUCH
 EEEE  EEEEEEE  E  EEEE  E  E  EEEE  EEEE  E  EEEEEEE  EEEE  E
 E     E     E  E        E     E  E  E     E  E              E			    @github: itsmeYO92
 EEEEEEEEEE  E  E  EEEEEEEEEE  E  EEEE  EEEE  EEEEEEEEEE  E  E
 E        E  E              E     E     E  E              E  E
-EEEE  E  E  E  EEEE  E  EEEE  EEEEEEEEEE  EEEE  EEEEEEEEEEEEE		   SHOUTOUT TO ALX MOROCCO DISCORD SERVER
+EEEE  E  E  E  EEEE  E  EEEE  EEEEEEEEEE  EEEE  EEEEEEEEEEEEE		               ALX COHORT 12
 E     E     E     E  E        E        E     E        E     E
 E  EEEE  EEEE  EEEE  E  EEEE  EEEE  EEEE  E  E  EEEEEEE  E  E
 E  E  E        E     E     E  E     E  E  E     E     E  E  E

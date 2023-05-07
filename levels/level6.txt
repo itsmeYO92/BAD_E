@@ -1,0 +1,32 @@
+   EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+                  E     E  E  E  E     E           E  E     E
+EEEEEEEEEE  E  EEEEEEE  E  E  E  E  EEEEEEE  E  EEEE  EEEE  E
+E     E     E  E              E  E  E     E  E              E
+E  EEEE  EEEEEEEEEEEEEEEEEEE  E  E  E  E  EEEE  E  EEEEEEEEEE
+E        E  E  E     E                 E        E     E  E  E
+EEEEEEE  E  E  EEEE  EEEE  E  EEEEEEE  E  E  EEEE  EEEE  E  E
+E                 E        E        E  E  E  E  E        E  E
+E  EEEE  E  E  EEEE  E  EEEEEEEEEE  EEEE  E  E  E  EEEE  E  E
+E  E     E  E        E  E     E        E  E     E  E        E
+EEEEEEE  EEEEEEEEEEEEEEEE  E  E  EEEE  EEEEEEE  E  EEEEEEE  E
+E  E     E     E  E     E  E  E  E     E     E  E        E  E
+E  E  EEEEEEE  E  EEEE  EEEE  EEEE  EEEEEEE  E  E  EEEEEEEEEE
+E           E              E        E           E        E  E
+E  EEEE  EEEEEEEEEEEEEEEE  EEEEEEEEEEEEEEEE  EEEEEEEEEEEEE  E
+E  E        E           E     E     E  E           E     E  E
+E  EEEEEEE  E  EEEEEEEEEE  EEEE  EEEE  E  EEEEEEE  E  EEEE  E
+E     E     E     E  E           E        E  E              E
+EEEEEEEEEE  E  EEEE  EEEEEEEEEE  E  EEEE  E  E  EEEEEEE  EEEE
+E     E  E     E  E  E  E  E           E     E  E     E     E
+E  E  E  EEEE  E  E  E  E  E  EEEEEEEEEE  EEEEEEEEEE  E  EEEE
+E  E           E        E     E  E              E        E  E
+E  EEEEEEE  EEEEEEE  E  EEEE  E  EEEEEEEEEEEEEEEE  E  E  E  E
+E  E     E     E     E  E     E  E  E        E  E  E  E     E
+EEEEEEE  E  EEEEEEE  E  EEEE  E  E  E  EEEE  E  EEEEEEE  E  E
+E        E  E  E  E  E     E     E  E     E  E  E        E  E
+E  EEEEEEE  E  E  EEEE  EEEE  E  E  EEEE  EEEE  EEEEEEEEEE  E
+E           E     E           E  E     E  E           E     E
+EEEE  E  EEEEEEE  E  E  EEEEEEEEEEEEE  E  E  E  EEEE  E  E  E
+E     E     E        E  E                    E  E        E  
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE  
+

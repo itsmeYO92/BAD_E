@@ -29,6 +29,7 @@ char **init_level(char **level, int n, player_t player);
 void print_level(char **level, player_t player);
 void free_mem(char **level);
 player_t move_player(char mv, char **level, player_t player);
+int is_success(player_t player);
 
 
 #endif
